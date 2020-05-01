@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenRestTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe2ae318-5d34-4fd1-a676-65f9ad9c4615</testCaseGuid>
+   <variable>
+      <defaultValue>'Swaroop'</defaultValue>
+      <description></description>
+      <id>151e2fd2-25ee-4cc1-b0f3-c722eb7e15da</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>

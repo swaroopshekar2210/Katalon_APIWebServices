@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenSOAPTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65c37d5c-309e-4080-baaa-d1d19a9db68b</testCaseGuid>
+   <variable>
+      <defaultValue>'IN'</defaultValue>
+      <description></description>
+      <id>fffdf611-0e79-456d-8939-8914eeb27a01</id>
+      <masked>false</masked>
+      <name>CountryCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'New Delhi'</defaultValue>
+      <description></description>
+      <id>df648129-476d-4dcc-a28b-23f1a1ea0257</id>
+      <masked>false</masked>
+      <name>Capital</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rupees'</defaultValue>
+      <description></description>
+      <id>681cbb97-8025-4fc9-8c20-2a45b1f23359</id>
+      <masked>false</masked>
+      <name>Currency1</name>
+   </variable>
+</TestCaseEntity>
